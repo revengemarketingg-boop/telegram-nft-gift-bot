@@ -1,0 +1,14 @@
+{
+  "name": "telegram-stars-payment-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot: bakiye yükle ve +90 WhatsApp/Telegram numara satın alma (Telegram Stars ile ödeme)",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "nanoid": "^4.0.0"
+  }
+}
